@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T15:17:23.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="caIWOU3m_qLdTQWMuLjr" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T15:20:53.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="_DhFgy-TKfekKyMexux0" version="24.2.8" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="3130" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="854" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -89,8 +89,18 @@
         <mxCell id="4jr2ONTPGN_eHcJ9FS_L-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" parent="4jr2ONTPGN_eHcJ9FS_L-25" source="4jr2ONTPGN_eHcJ9FS_L-28" target="4jr2ONTPGN_eHcJ9FS_L-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="X7TwyivmiG1AACJeBBGR-2" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4jr2ONTPGN_eHcJ9FS_L-44">
+          <mxGeometry x="0.06" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4jr2ONTPGN_eHcJ9FS_L-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=none;" parent="4jr2ONTPGN_eHcJ9FS_L-25" source="4jr2ONTPGN_eHcJ9FS_L-28" target="4jr2ONTPGN_eHcJ9FS_L-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X7TwyivmiG1AACJeBBGR-1" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4jr2ONTPGN_eHcJ9FS_L-47">
+          <mxGeometry x="0.0284" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4jr2ONTPGN_eHcJ9FS_L-28" value="Possui registro?" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" parent="4jr2ONTPGN_eHcJ9FS_L-25" vertex="1">
           <mxGeometry x="190" y="110" width="80" height="80" as="geometry" />
